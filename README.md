@@ -1,3 +1,9 @@
+I have left the original instructions below
+## Plot generation instructions
+
+There are 4 R files included in the submission. The PNG files are the result of running all files.
+All R files are autonomous - can be run indepenently. This means that they all read and prepare the data and then generate PNG files with charts.
+
 ## Introduction
 
 This assignment uses data from
